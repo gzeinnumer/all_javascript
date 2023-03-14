@@ -11,6 +11,8 @@
 - [remove](https://www.w3schools.com/jquery/jquery_dom_remove.asp)
 - [click](https://www.w3schools.com/jquery/jquery_callback.asp)
 - [animasi hide](https://www.w3schools.com/jquery/jquery_chaining.asp)
+- [js_select](https://github.com/gzeinnumer/js_select)
+- [jquery_get_post](https://github.com/gzeinnumer/jquery_get_post)
 
 ---
 
